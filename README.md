@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning video editing, and front end frameworks
 - 💞️ I’m looking to collaborate on some small application projects in golang, electron app framework, etc.
 - 📫 How to reach me at my email spdrcd@gmail.com
-- 🖥️ Come visit my crappy site at [chiehc.com](chiehc.com)
+- 🖥️ Come visit my crappy site at [http://chiehc.com](chiehc.com)
 
 <!---
 spdrcd/spdrcd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
